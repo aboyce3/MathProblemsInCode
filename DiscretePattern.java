@@ -1,4 +1,4 @@
-public class Main {
+public class DiscretePattern {
 
     static class tuple {
          int x;
