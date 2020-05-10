@@ -30,7 +30,7 @@ public class DiscretePattern {
         }
         for(int i = 0; i < 4; i++){
             for (int j = 0; j < 4; j++){
-                if(solution[i][j] != null)System.out.print(solution[i][j].toString() + " ");
+                if(solution[i][j] != null) System.out.print(solution[i][j].toString() + " ");
             }
             System.out.println();
         }
