@@ -1,6 +1,6 @@
 # MathProblemsInCode
 
-This code follows the pattern
+DiscretePattern.java follows the pattern:
 
 (0,0)                                                                                                                                                                                
 (0,1) (1,0)                                                                                                                                                                          
